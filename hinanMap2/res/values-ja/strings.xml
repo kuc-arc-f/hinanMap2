@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">避難所検索2.0</string>
+    <string name="flood">水害</string>
+    <string name="earthquake">震災</string>
+    <string name="nuclear_power_plant">原発</string>
+    <string name="hinan_info">避難所情報</string>
+    <string name="hinan_info_realtime">リアルタイム\n避難所情報</string>
+    <string name="disaster_prevention_info">防災情報</string>  
+    <string name="register">新規登録</string>    
+    <string name="delete">削除</string>      
+    <string name="menu_save_hinan_map">画像を保存</string> 
+    <string name="menu_show_hinan_map">保存画像の表示</string> 
+    <string name="close">閉じる</string>
+    <string name="refuge_name">避難場所名</string>
+    <string name="success_to_save">保存完了</string>
+    <string name="search">検索</string>
+    <string name="addresses">都道府県市区町村</string>
+    <string name="select_address">場所を選択してください</string>
+    <string name="register_name">登録名</string>
+    <string name="result_count">件見つかりました</string>
+    <string name="input_register_name">登録名を入力してください</string>
+    
+    <string name="hinan_info_title">避難所情報一覧</string>
+    <string name="hinan_map_info_search_title">避難所情報検索</string>
+    <string name="hinan_map_info_register_title">避難所情報登録</string>
+    <string name="hinan_map_info_title">避難所情報閲覧</string>
+    <string name="realtime_hinan_info_search_title">リアルタイム避難所情報検索</string>
+    <string name="realtime_hinan_info_search_result_title">リアルタイム避難所情報検索結果</string>
+    <string name="disaster_prevention_info_title">防災情報</string>
+    
+    <string name="no_save_pic_err">保存している画像がありません</string>
+    <string name="faile_to_save_err">保存失敗</string>
+    <string name="please_input_address_err">住所を入力してください</string>
+    
+    <!--  -->
+   	<string name="disaster_prevention_info_tit_warn">警報注意報</string>
+	<string name="disaster_prevention_info_tit_eq">地震情報</string>
+    
+</resources>

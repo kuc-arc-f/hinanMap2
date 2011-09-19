@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hinanMap2</string>
+    <string name="flood">flood</string>
+    <string name="earthquake">earthquake</string>
+    <string name="nuclear_power_plant">nuclear_power_plant</string>
+    <string name="hinan_info">refuge info</string>
+    <string name="hinan_info_realtime">refuge info realtime</string>
+    <string name="disaster_prevention_info">disaster prevention info</string>      
+    <!--  -->
+    <string name="disaster_prevention_info_title">Disaster Prevention info</string>
+   	<string name="disaster_prevention_info_tit_warn">Warning</string>
+	<string name="disaster_prevention_info_tit_eq">EarthQuake</string>
+</resources>
